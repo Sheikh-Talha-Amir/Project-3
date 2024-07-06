@@ -1,0 +1,38 @@
+<div class="container-fluid p-5 d-lg-block d-none">
+    <div class="row">
+        <div class="col-lg-6">
+            <h2 style="font-size: 40px;font-family: 'Times New Roman', Times, serif;" class="fw-bolder  "><span class="fs-5 fw-bold" style="color: #90ada9;">RESPECTIVE</span><br>PARTNERS</h2>
+            <p>Etiam erat orci, tincidunt eu Winces in, sagittis sit amet ex. Donec quam odio, scelerisque et nisl vet, elementum maximus Lorem. In sodales iacutis eros, a porta nulla mattis ut Ut gravida hendrerit nisi, eu eleifend sapien cursus ac. Sed sit amet teals eget augue viverra Winces.</p>
+            <div class="container mt-5">
+                <div class="row">
+                <div class="col-lg-4" style="border-bottom: 1px solid rgb(218, 211, 211); border-right: 1px solid rgb(218, 211, 211);"><img src="partners/1.png" alt="" class="ms-4"></div>
+                <div class="col-lg-4" style="border: 1px solid rgb(218, 211, 211); border-top: 0;"><img src="partners/2.png" alt="" class="ms-5"></div>
+                <div class="col-lg-4" style="border: 1px solid rgb(218, 211, 211); border-top: 0;border-right:0 ;"><img src="partners/3.png" alt="" class="ms-5"></div>
+                <div class="col-lg-4" style="border: 1px solid rgb(218, 211, 211); border-left: 0;border-bottom: 0;"><img src="partners/4.png" alt="" class="ms-5"></div>
+                <div class="col-lg-4" style="border: 1px solid rgb(218, 211, 211);border-bottom: 0;"><img src="partners/5.png" alt="" class="ms-5"></div>
+                <div class="col-lg-4" style="border: 1px solid rgb(218, 211, 211); border-bottom: 0;border-right: 0;"><img src="partners/6.png" alt="" class="ms-5"></div>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-6">
+            <div class="row"> 
+            <div class="col-lg-6">
+            <h2 style="font-size: 40px;font-family: 'Times New Roman', Times, serif;" class="fw-bolder"><span class="fs-5 fw-bold" style="color: #90ada9;">FIND OUT WHAT</span><br>CLIENTS SAY</h2>
+            <p style="font-size: small;font-style: italic;">Etiam sed sollicitudin elk. Nulls eleifend aliquet varius. Vivamus nec magna vet justo bibendum dictum. Sed ligula est maximus eget metus a, finibus tongue elit Aliquam eu dui facilisis, egestas locus a, lacinia tortor. Cras vulputate, leo a pulvinar luctus, elit</p>
+            <div class="d-flex flex-row">
+                <img src="a.jpg" alt="">
+                <h5 class="p-2 fw-bolder fs-6">Maragret L Connally <br><span style="font-size: small;color: gray;font-style: italic;font-weight: lighter; ">Metallurgical engineer</span></h5>
+                </div>
+            </div>
+
+            <div class="col-lg-6">
+            
+            <p style="font-size: small;font-style: italic;margin-top: 100px;">Mauris lacinia metus consectetur fells porttitor volutpat. Suspendisse potenti. Interdum et malesuada fames ac ante ipsum primis in faucibus. Etiam mollis et neque sed pulvinar.</p>
+            <div class="d-flex flex-row">
+            <img src="b.jpg" alt="">
+            <h5 class="p-2 fw-bolder fs-6">James T.Pritchett <br><span style="font-size: small;color: gray;font-style: italic;font-weight: lighter; ">Loan collection officer</span></h5>
+            </div>
+        </div>
+        </div>
+    </div>
+</div> 

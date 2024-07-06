@@ -1,0 +1,24 @@
+.custom-list {
+    list-style: none;
+    padding: 0;
+  }
+  .custom-list li {
+    position: relative;
+    padding-left: 25px;
+    margin-bottom: 10px;
+  }
+  .custom-list li::before {
+    content: '\2714'; /* Unicode for tick */
+    position: absolute;
+    left: 0;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 15px;
+    height: 15px;
+    background-color:#90ada9;
+    color: white;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 15px;
+    font-size: 10px;
+    }
